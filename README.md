@@ -6,4 +6,7 @@ Integrantes:
 Elichiribehety Fernando. Contacto: fernando.elichiribehety@tupad.utn.edu.ar
 
 ### Video explicativo
-Enlace: https://youtu.be/62vaDxzYgSY
+[Enlace](https://youtu.be/62vaDxzYgSY)
+
+### Trabajo Practico PDF
+[Enlace](https://drive.google.com/drive/folders/1XEOoOyMzOKj3aFiCAEmrKYffbdzKLbOy?usp=sharing)
